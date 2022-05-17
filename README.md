@@ -19,4 +19,5 @@ This course require student to use VScode to develop our project and push their 
   ```
 
   5. 安裝 python extension module in vs code (package controller)
-  6. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuchun7/AIoT-Lecture14.git/edit/blob/master/notebooks/colab-github-demo.ipynb)
+  6. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuchun7/AIoT-Lecture14/edit/master/flask_ngrok_example.ipynb)
+
