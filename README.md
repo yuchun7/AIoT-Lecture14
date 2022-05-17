@@ -16,5 +16,7 @@ This course require student to use VScode to develop our project and push their 
   git branch -M main
   git remote add origin https://github.com/huanchen1107/0517.git
   git push -u origin main
-  
+  ```
+
+  5. 安裝 python extension module in vs code (package controller)
   
